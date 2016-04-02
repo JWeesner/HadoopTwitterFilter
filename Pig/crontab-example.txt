@@ -1,0 +1,5 @@
+1  *  *  *  * /home/jwees1/hw3/userinfo.sh
+1  *  *  *  * /home/jwees1/hw3/chattyusers.sh
+1  *  *  *  * /home/jwees1/hw3/popularusers.sh
+1  *  *  *  * /home/jwees1/hw3/tophashtags.sh
+1  *  *  *  * /home/jwees1/hw3/tweetindex.sh
